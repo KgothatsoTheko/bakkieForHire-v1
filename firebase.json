@@ -1,0 +1,16 @@
+{
+  "hosting": {
+    "public": "dist/bakkie-for-hire-v1",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

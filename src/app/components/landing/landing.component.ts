@@ -12,7 +12,10 @@ export class LandingComponent implements OnInit {
     { src: "../../../assets/Images/img4.jpg" },
     { src: "../../../assets/Images/img3.jpg" },
     { src: "../../../assets/Images/img1.jpg" },
-    { src: "../../../assets/Images/img5.jpg" }
+    { src: "../../../assets/Images/img5.jpg" },
+    { src: "../../../assets/Images/img6.jpg" },
+    { src: "../../../assets/Images/img7.jpg" },
+    { src: "../../../assets/Images/img8.jpg" },
   ];
 
 
